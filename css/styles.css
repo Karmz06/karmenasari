@@ -1,0 +1,198 @@
+body {
+  color: #40514E;
+  margin: 0px;
+  text-align: center;
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+
+/* marginis help fill out the page */
+h1 {
+  margin-top: 0px;
+  font-size: 5.265em;
+  line-height: 2;
+  text-align: center;
+  font-family: 'Berkshire Swash', cursive;
+  color: #66BFBF
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+h3 {
+  color: #11999E;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+p{
+  line-height: 2:
+}
+.skills {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skills-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.photoshop {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+
+.media {
+  width: 25%;
+  margin-left: 30px;
+  float: right;
+}
+.UXUI{
+  width: 25%;
+  margin-left: 30px;
+  float: right;
+
+}
+.illustrator{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.Aftereffects{
+  width: 25%;
+  margin-left: 30px;
+  float: right
+}
+.PremierePro{
+  width: 25%;
+  float: left;
+  margin-right: 30px
+}
+.web{
+  width: 25%;
+  margin-left: 30px;
+  float: right
+}
+.Microsoft{
+  width: 25%;
+  float: left;
+  margin-right: 30px
+}
+
+
+.top-container {
+  background-color: #BFFFF0;
+  position: relative;
+  padding-top: 100px
+}
+
+
+.myself {
+  width: 25%;
+  margin: auto;
+}
+
+.middle-container{
+margin: 100px 0px;
+
+}
+
+.bottom-container{
+  background: #BFFFF0;
+  padding: 50px 0px 20px
+}
+
+a{
+color: #11999E;
+  font-family: 'Montserrat Alternates', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+
+}
+
+a:hover{
+color: #EAF6F6;
+
+}
+
+
+.intro{
+width: 30%;
+margin: auto;
+}
+/*img{
+  width: 100px;
+  height: 100px
+} size of the images*/
+/* display properity-
+block
+inline
+inline block
+none. */
+.cloud1 {
+  position: absolute;
+  right: 300px;
+  top: 40px
+}
+
+.cloud2 {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.mountain {}
+
+hr {
+border: dotted 6px #EAF6F6;
+border-bottom: : none;
+width: 4%;
+margin: 100px auto;
+}
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.copyright{
+color:  #11999E;
+font-size: 0.75rem;
+padding: 20px 0px;
+
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat Alternates', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ab);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ab);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ab);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ab);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ab);
+  text-decoration: none;
+}
